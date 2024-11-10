@@ -1,1 +1,10 @@
-test text bla bla
+1. Tạo repo trên github -> clone về -> đẩy code lên
+	- git clone link_repo
+	- Viết code
+	- git status ( hiển thị danh sách các file thay đổi -có màu đỏ )
+	- git add . ( thêm các file thay đổi vào git -có màu xanh )
+	- git commit -m "viết commit" ( đặt tên commit để mô tả )
+	- git push origin main ( đẩy code lên repo vào nhánh main )
+
+2. Tạo dự án ở local -> đẩy code lên github
+	
